@@ -1,7 +1,7 @@
 function App() {
   return (
-    <div>
-      <h1>Habit Tracker</h1>
+    <div className='mx-auto mt-4 w-full max-w-[1440px]'>
+      <h1 className='text-4xl font-extrabold text-purple-600'>Habit Tracker</h1>
     </div>
   )
 }
